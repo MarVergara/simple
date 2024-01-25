@@ -1,0 +1,1 @@
+This is a test for excercise n.6
